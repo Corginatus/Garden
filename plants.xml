@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <name>Plants info</name>
+    <plants>
+        <tree>
+            <element>
+                <height>12</height>
+                <name>Береза</name>
+            </element>
+            <element>
+                <height>10</height>
+                <name>Дуб</name>
+            </element>
+            <element>
+                <height>8</height>
+                <name>Каштан</name>
+            </element>
+        </tree>
+        <bush>
+            <element>
+                <height>5</height>
+                <name>Куст малины</name>
+            </element>
+            <element>
+                <height>3</height>
+                <name>Куст смородины</name>
+            </element>
+            <element>
+                <height>4</height>
+                <name>Куст шиповника</name>
+            </element>
+        </bush>
+    </plants>
+</root>
